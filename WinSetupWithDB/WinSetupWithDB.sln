@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinSetupWithDB", "WinSetupWithDB\WinSetupWithDB.csproj", "{421080DA-C44A-4C00-A8D7-7226B0002EEB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{863B7719-C4C9-4F83-9F6C-7424B13B67BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421080DA-C44A-4C00-A8D7-7226B0002EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421080DA-C44A-4C00-A8D7-7226B0002EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421080DA-C44A-4C00-A8D7-7226B0002EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421080DA-C44A-4C00-A8D7-7226B0002EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863B7719-C4C9-4F83-9F6C-7424B13B67BA}.Debug|Any CPU.ActiveCfg = Debug
+		{863B7719-C4C9-4F83-9F6C-7424B13B67BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D782CDE-9B95-4FB1-BE50-6AC39631BDE6}
+	EndGlobalSection
+EndGlobal

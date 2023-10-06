@@ -1,0 +1,11 @@
+D:\WinSetup\WinSetupWithDB.exe
+D:\WinSetup\WinSetupWithDB.dll
+D:\WinSetup\WinSetupWithDB.deps.json
+D:\WinSetup\WinSetupWithDB.runtimeconfig.json
+D:\WinSetup\WinSetupWithDB.pdb
+D:\WinSetup\System.Data.SqlClient.dll
+D:\WinSetup\runtimes\win-arm64\native\sni.dll
+D:\WinSetup\runtimes\win-x64\native\sni.dll
+D:\WinSetup\runtimes\win-x86\native\sni.dll
+D:\WinSetup\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinSetup\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
